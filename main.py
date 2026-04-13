@@ -2,7 +2,7 @@ from file_reader import read_from_files
 from url_reader import read_from_urls
 from helper import fetch_joyo_list
 
-joyo_list_path = "kanji-jouyou.json"
+joyo_list_path = "data/kanji-jouyou.json"
 joyo_list = fetch_joyo_list(joyo_list_path)
 
 def main(txt_files, csv_files, urls):
