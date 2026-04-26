@@ -11,7 +11,7 @@ def read_text_files(txt_files_path,joyo_list):
             for ch in text:
                 if is_kanji(ch):
                     total_kanji_set.add(ch)
-                    if is_joyo_kanji(ch):
+                    if is_joyo_kanji(ch,joyo_list):
                         joyo_kanji_set.add(ch)
 
     return total_kanji_set, joyo_kanji_set

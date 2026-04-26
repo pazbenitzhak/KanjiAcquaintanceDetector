@@ -5,8 +5,12 @@ def fetch_joyo_list(path):
         return set(json.load(f))
 
 def is_kanji(char):
+    #TODO: complete function
     return
 
 def is_joyo_kanji(kanji, joyo_list):
-    return
+    if kanji in joyo_list:
+        return True
+    #TODO: complete function
+    return False
 
