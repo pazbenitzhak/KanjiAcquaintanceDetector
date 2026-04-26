@@ -1,0 +1,507 @@
+kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,kun_reading
+一,1,1,one,one,,イチ; イツ,ひと-; ひと.つ
+二,2,2,two,two,,ニ; ジ,ふた; ふた.つ; ふたた.び
+三,3,3,three,three,,サン; ゾウ,み; み.つ; みっ.つ
+四,4,4,four,four,pent in; human legs,シ,よ; よ.つ; よっ.つ; よん
+五,5,5,five,five,,ゴ,いつ; いつ.つ
+六,6,6,six,six,top hat; animal legs,ロク; リク,む; む.つ; むっ.つ; むい
+七,7,7,seven,seven,diced,シチ,なな; なな.つ; なの
+八,8,8,eight,eight,,ハチ,や; や.つ; やっ.つ; よう
+九,9,9,nine,nine,baseball,キュウ; ク,ここの; ここの.つ
+十,10,10,ten,ten,needle,ジュウ; ジッ; ジュッ,とお; と
+口,11,11,mouth,mouth,,コウ; ク,くち
+日,12,12,day,day,sun,ニチ; ジツ,ひ; -び; -か
+月,13,13,month,month,moon; flesh; part of the body,ゲツ; ガツ,つき
+田,14,14,rice field,rice field,brains,デン,た
+目,15,15,eye,eye,,モク; ボク,め; -め; ま-
+古,16,16,old,old,tombstone; gravestone; church; ten; needle; mouth,コ,ふる.い; ふる-; -ふる.す
+吾,17,17,I,I,five; mouth,ゴ,われ; わが-; あ-
+冒,18,18,risk,risk,sun; day; eye,ボウ,おか.す
+朋,19,19,companion,companion,moon; month; flesh; part of the body,ホウ,とも
+明,20,20,bright,bright,sun; day; moon; month; flesh; part of the body,メイ; ミョウ; ミン,あ.かり; あか.るい; あか.るむ; あか.らむ; あき.らか; あ.ける; -あ.け; あ.く; あ.くる; あ.かす
+唱,21,21,chant,chant,mouth; prosperous; sun; day; tongue wagging,ショウ,とな.える
+晶,22,22,sparkle,sparkle,day; sun,ショウ,
+品,23,23,goods,goods,mouth,ヒン; ホン,しな
+呂,24,24,spine,spine,mouth; drop,ロ; リョ,せぼね
+昌,25,25,prosperous,prosperous,sun; day,ショウ,さかん
+早,26,26,early,early,sunflower; sun; day; ten; needle,ソウ; サッ,はや.い; はや; はや-; はや.まる; はや.める; さ-
+旭,27,27,rising sun,rising sun,nine; baseball; sun; day,キョク,あさひ
+世,28,28,generation,generation,ten; twenty,セイ; セ; ソウ,よ; さんじゅう
+胃,29,29,stomach,stomach,rice field; brains; moon; month; flesh; part of the body,イ,
+旦,30,30,nightbreak,nightbreak,sun; one; floor,タン; ダン,あき.らか; あきら; ただし; あさ; あした
+胆,31,31,gall bladder,gall bladder,gallbladder; moon; month; flesh; part of the body; nightbreak; sun; day; one; floor,タン,きも
+亘,32,32,span,span,one; ceiling; sun; day; one; floor,コウ; カン,わた.る; もと.める
+凹,33,33,concave,concave,,オウ,くぼ.む; へこ.む; ぼこ
+凸,34,34,convex,convex,,トツ,でこ
+旧,35,35,olden times,olden times,stick; sun; day,キュウ,ふる.い; もと
+自,36,36,oneself,oneself,drop; eye,ジ; シ,みずか.ら; おの.ずから; おの.ずと
+白,37,37,white,white,drop; sun; day,ハク; ビャク,しろ; しら-; しろ.い
+百,38,38,hundred,hundred,one; ceiling; white; dove,ヒャク; ビャク,もも
+中,39,39,in,in,stick; mouth,チュウ,なか; うち; あた.る
+千,40,40,thousand,thousand,drop; ten; needle,セン,ち
+舌,41,41,tongue,tongue,thousand; drop; ten; needle; mouth,ゼツ,した
+升,42,42,measuring box,measuring box,thousand; drop; ten; needle,ショウ,ます
+昇,43,43,rise up,rise up,sun; day; measuring box; thousand; drop; ten; needle,ショウ,のぼ.る
+丸,44,44,round,round,drop; nine; baseball,ガン,まる; まる.める; まる.い
+寸,45,45,measurement,measurement,glue; drop; ten with a hook,スン,
+肘,2464,46,elbow,elbow,moon; month; flesh; part of the body; glue,チュウ,ひじ
+専,46,47,specialty,specialty,ten; needle; rice field; brains; glue,セン,もっぱ.ら
+博,47,48,Dr.,Dr.,ten; needle; acupuncturist; specialty; drop; ten; needle; rice field; brains; glue,ハク; バク,
+占,48,49,fortune-telling,fortune-telling,magic wand; augury; divining rod; mouth,セン,し.める; うらな.う
+上,49,50,above,above,magic wand; augury; divining rod; one; floor,ジョウ; ショウ; シャン,うえ; -うえ; うわ-; かみ; あ.げる; -あ.げる; あ.がる; -あ.がる; あ.がり; -あ.がり; のぼ.る; のぼ.り; のぼ.せる; のぼ.す; よ.す
+下,50,51,below,below,one; ceiling; magic wand; augury; divining rod,カ; ゲ,した; しも; もと; さ.げる; さ.がる; くだ.る; くだ.り; くだ.す; -くだ.す; くだ.さる; お.ろす; お.りる
+卓,51,52,eminent,eminent,magic wand; augury; divinging rod; sunflower; sun; day; ten; needle,タク,
+朝,52,53,morning,morning,mist; ten; needle; early; sun; day; moon; month; flesh; part of the body,チョウ,あさ
+嘲,2155,54,derision,derision,mouth; morning; mist; ten; needle; early; sun; day; moon; month; flesh; part of the body,チョウ; トウ,あざけ.る
+只,53,55,only,only,mouth; animal legs; eight,シ,ただ
+貝,54,56,shellfish,shellfish,clam; oyster; eye; animal legs; eight,バイ,かい
+唄,2178,57,pop song,pop song,mouth; shellfish; clam; oyster; eye; animal legs; eight,バイ,うた; うた.う
+貞,55,58,upright,upright,magic wand; augury; divining rod; shellfish; clam; oyster; eye; animal legs; eight,テイ,さだ
+員,56,59,employee,employee,mouth; shellfish; clam; oyster; eye; animal legs; eight,イン,
+貼,2736,60,affix,post a bill,shellfish; clam; oyster; eye; animal legs; eight; fortune-telling; magic wand; augury; mouth,テン; チョウ,は.る; つ.く
+見,57,61,see,see,eye; human legs,ケン,み.る; み.える; み.せる
+児,58,62,newborn babe,newborn babe,olden times; stick; sun; day; human legs,ジ; ニ; ゲイ,こ; -こ; -っこ
+元,59,63,beginning,beginning,two; human legs,ゲン; ガン,もと
+頁,60,64,page,page,one; ceiling; drop; shellfish; clam; oyster; eye; animal legs; eight,ケツ,ぺえじ; おおがい; かしら
+頑,61,65,stubborn,stubborn,beginning; two; human legs; head; page; one; ceiling; drop; shellfish; clam; oyster; eye; animal legs; eight,ガン,かたく
+凡,62,66,mediocre,mediocre,drop; wind,ボン; ハン,およ.そ; おうよ.そ; すべ.て
+負,63,67,defeat,defeat,bound up; shellfish; clam; oyster; eye; animal legs; eight,フ,ま.ける; ま.かす; お.う
+万,64,68,ten thousand,ten thousand,one; ceiling; bound up,マン; バン,よろず
+句,65,69,phrase,phrase,bound up; mouth,ク,
+肌,66,70,texture,texture,moon; month; flesh; part of the body; wind,キ,はだ
+旬,67,71,decameron,decameron,bound up; sun; day,ジュン; シュン,
+勺,68,72,ladle,ladle,bound up; drop,シャク,
+的,69,73,bull's eye,bull's eye,bull’s eye; white; dove; ladle; bound up; drop,テキ,まと
+首,70,74,neck,neck,horns; nose; one; ceiling; drop; eye,シュ,くび
+乙,71,75,fish guts,fish guts,fishguts; fishhook,オツ; イツ,おと-; きのと
+乱,72,76,riot,riot,tongue; thousand; drop; ten; needle; mouth; fishhook,ラン; ロン,みだ.れる; みだ.る; みだ.す; みだ; おさ.める; わた.る
+直,73,77,straightaway,straightaway,ten; needle; eye; fishhook,チョク; ジキ; ジカ,ただ.ちに; なお.す; -なお.す; なお.る; なお.き; す.ぐ
+具,74,78,tool,tool,eye; one; animal legs; eight,グ,そな.える; つぶさ.に
+真,75,79,true,true,ten; needle; eye; tool; one; animal legs; eight,シン,ま; ま-; まこと
+工,76,80,craft,craft,artificial,コウ; ク; グ,
+左,77,81,left,left,by one’s side; craft,サ; シャ,ひだり
+右,78,82,right,right,by one’s side; mouth,ウ; ユウ,みぎ
+有,79,83,possess,possess,by one’s side; moon; month; flesh; part of the body,ユウ; ウ,あ.る
+賄,80,84,bribe,bribe,shellfish; clam; oyster; eye; animal legs; eight; possess; by one’s side; moon; month; flesh; part of the body,ワイ,まかな.う
+貢,81,85,tribute,tribute,craft; shellfish; clam; oyster; eye; animal legs; eight,コウ; ク,みつ.ぐ
+項,82,86,paragraph,paragraph,craft; head; page; one; ceiling; drop; shellfish; clam; oyster; eye; animal legs; eight,コウ,うなじ
+刀,83,87,sword,sword,dagger,トウ,かたな; そり
+刃,84,88,blade,blade,drop; sword; dagger,ジン; ニン,は; やいば; き.る
+切,85,89,cut,cut,seven; diced; sword; dagger,セツ; サイ,き.る; -き.る; き.り; -き.り; -ぎ.り; き.れる; -き.れる; き.れ; -き.れ; -ぎ.れ
+召,86,90,seduce,seduce,sword; dagger; mouth,ショウ,め.す
+昭,87,91,shining,shining,sun; day; seduce; summon; sword; dagger; mouth,ショウ,
+則,88,92,rule,rule,shellfish; clam; oyster; eye; animal legs; eight; sword; sabre; saber,ソク,のっと.る
+副,89,93,vice-,vice-,wealth; one; ceiling; mouth; rice field; brains; sword; sabre; saber,フク,
+別,90,94,separate,separate,mouth; bound up; sword; sabre; saber,ベツ,わか.れる; わ.ける
+丁,91,95,street,street,nail; spike,チョウ; テイ; チン; トウ; チ,ひのと
+町,92,96,town,town,rice field; brains; street; nail; spike,チョウ,まち
+可,93,97,can,can,mouth; street; street; nail; spike,カ; コク,-べ.き
+頂,94,98,place on the head,place on the head,street; nail; spike; head; page; one; ceiling; drop; shellfish; clam; oyster; eye; animal legs; eight,チョウ,いただ.く; いただき
+子,95,99,child,child,,シ; ス; ツ,こ; -こ; ね
+孔,96,100,cavity,cavity,child; fishhook,コウ,あな
+了,97,101,complete,complete,child with arms wrapped up,リョウ,
+女,98,102,woman,woman,,ジョ; ニョ; ニョウ,おんな; め
+好,99,103,fond,fond,woman; child,コウ,この.む; す.く; よ.い; い.い
+如,100,104,likeness,likeness,woman; mouth,ジョ; ニョ,ごと.し
+母,101,105,mama,mama,mother; breasts,ボ,はは; も
+貫,102,106,pierce,pierce,mama; mother; breasts; oyster; shellfish; clam; oyster; eye; animal legs; eight,カン,つらぬ.く; ぬ.く; ぬき
+兄,103,107,elder brother,elder brother,teenager; mouth; human legs,ケイ; キョウ,あに
+呪,2169,108,curse,curse,mouth; elder brother; teenager; mouth; human legs,ジュ; シュ; シュウ; ズ,まじな.う; のろ.い; まじな.い; のろ.う
+克,104,109,overcome,overcome,ten; needle; elder brother; teenager; mouth; human legs,コク,か.つ
+小,105,110,little,little,small,ショウ,ちい.さい; こ-; お-; さ-
+少,106,111,few,few,little; small; drop,ショウ,すく.ない; すこ.し
+大,107,112,large,large,St. Bernard,ダイ; タイ,おお-; おお.きい; -おお.いに
+多,108,113,many,many,evening,タ,おお.い; まさ.に; まさ.る
+夕,109,114,evening,evening,,セキ,ゆう
+汐,110,115,eventide,eventide,water; water droplets; water pistol; evening,セキ,しお; うしお; せい
+外,111,116,outside,outside,evening; magic wand; augury,ガイ; ゲ,そと; ほか; はず.す; はず.れる; と-
+名,112,117,name,name,evening; mouth,メイ; ミョウ,な; -な
+石,113,118,stone,stone,cliff; mouth,セキ; シャク; コク,いし
+肖,114,119,resemblance,resemblance,spark; candle; small; little; moon; month; flesh; part of the body,ショウ,あやか.る
+硝,115,120,nitrate,nitrate,stone; rock; resemblance; spark; candle; small; little; moon; month; flesh; part of the body,ショウ,
+砕,116,121,smash,smash,stone; rock; ninety; nine; baseball; ten; needle,サイ,くだ.く; くだ.ける
+砂,117,122,sand,sand,stone; rock; few,サ; シャ,すな
+妬,2195,123,jealous,jealous,woman; stone; rock,ト; ツ,ねた.む; そね.む; つも.る; ふさ.ぐ
+削,118,124,plane,plane,resemblance; spark; candle; small; little; moon; month; flesh; part of the body; sword; sabre; saber,サク,けず.る; はつ.る; そ.ぐ
+光,119,125,ray,ray,small; little; human legs,コウ,ひか.る; ひかり
+太,120,126,plump,plump,large; St. Bernard; drop,タイ; タ,ふと.い; ふと.る
+器,121,127,utensil,utensil,mouth; large; St. Bernard,キ,うつわ
+臭,122,128,stinking,stinking,nose; drop; eye; large; St. Bernard,シュウ,くさ.い; -くさ.い; にお.う; にお.い
+嗅,3008,129,sniff,sniff,,キュウ,か.ぐ
+妙,123,130,exquisite,exquisite,woman; few,ミョウ; ビョウ,たえ
+省,124,131,focus,focus,few; eye,セイ; ショウ,かえり.みる; はぶ.く
+厚,125,132,thick,thick,cliff; sun; day; child,コウ,あつ.い; あか
+奇,126,133,strange,strange,large; St. Bernard; can; mouth; street; nail; spike,キ,く.しき; あや.しい; くし; めずら.しい
+川,127,134,stream,stream,flood,セン,かわ
+州,128,135,state,state,stream; flood; drops,シュウ; ス,す
+順,129,136,obey,obey,stream; flood; head; page; one; ceiling; drop; shellfish; clam; oyster; eye; animal legs; eight,ジュン,
+水,130,137,water,water,,スイ,みず; みず-
+氷,131,138,icicle,icicle,drop; water,ヒョウ,こおり; ひ; こお.る
+永,132,139,eternity,eternity,drop; water,エイ,なが.い
+泉,133,140,spring,spring,white; dove; water,セン,いずみ
+腺,2466,141,gland,gland,moon; month; flesh; part of the body; spring; white; dove; water,セン,
+原,134,142,meadow,meadow,cliff; spring; white; dove; small; little,ゲン,はら
+願,135,143,petition,petition,meadow; cliff; white; dove; small; little; head; page; one; ceiling; drop; shellfish; clam; oyster; eye; animal legs; eight,ガン,ねが.う; -ねがい
+泳,136,144,swim,swim,water; water droplets; water pistol; eternity,エイ,およ.ぐ
+沼,137,145,marsh,marsh,water; water droplets; water pistol; summon; seduce; sword; dagger; mouth,ショウ,ぬま
+沖,138,146,open sea,open sea,water; water droplets; water pistol; in; stick; mouth,チュウ,おき; おきつ; ちゅう.する; わく
+汎,2327,147,pan-,pan-,water; water droplets; water pistol; mediocre; wind; drop,ハン; ブ; フウ; ホウ; ホン,ただよ.う; ひろ.い
+江,139,148,creek,creek,water; water droplets; water pistol; craft,コウ,え
+汰,2316,149,cleanse,cleanse,water; water droplets; water pistol; plump; large; St. Bernard; drop,タ; タイ,おご.る; にご.る; よな.げる
+汁,140,150,soup,soup,water; water droplets; water pistol; ten; needle,ジュウ,しる; -しる; つゆ
+沙,2296,151,grains of sand,grains of sand,water; water droplets; water pistol; few,サ; シャ,すな; よなげる
+潮,141,152,tide,tide,water; water droplets; water pistol; morning; mist; ten; needle; early; sun; day; moon; month; flesh; part of the body,チョウ,しお; うしお
+源,142,153,source,source,water; water droplets; water pistol; meadow; cliff; sun; day; small; little,ゲン,みなもと
+活,143,154,lively,lively,water; water droplets; water pistol; tongue; drop; old; tombstone; gravestone; church; ten; needle; mouth,カツ,い.きる; い.かす; い.ける
+消,144,155,extinguish,extinguish,water; water droplets; water pistol; resemblance; spark; candle; small; little; moon; month; flesh; part of the body,ショウ,き.える; け.す
+況,145,156,but of course,but of course,water; water droplets; water pistol; elder brother; teenager; mouth; human legs,キョウ,まし.て; いわ.んや; おもむき
+河,146,157,river,river,water; water droplets; water pistol; can; street; nail; spike; mouth,カ,かわ
+泊,147,158,overnight,overnight,water; water droplets; water pistol; white; dove,ハク,と.まる; と.める
+湖,148,159,lake,lake,water; water droplets; water pistol; uncivilized; zombie; old; tombstone; gravestone; church; ten; needle; mouth; moon; month; flesh; part of the body,コ,みずうみ
+測,149,160,fathom,fathom,water; water droplets; water pistol; rule; shellfish; clam; oyster; eye; animal legs; eight; sword; sabre; saber,ソク,はか.る
+土,150,161,soil,soil,dirt; ground,ド; ト,つち
+吐,151,162,spit,spit,mouth; soil; dirt; ground,ト,は.く; つ.く
+圧,152,163,pressure,pressure,cliff; soil; dirt; ground,アツ; エン; オウ,お.す; へ.す; おさ.える; お.さえる
+埼,153,164,cape,cape,soil; dirt; ground; strange; large; St. Bernard; street; nail; spike; mouth,キ,さき; さい; みさき
+垣,154,165,hedge,hedge,soil; dirt; ground; span; one; ceiling; sun; day; one; floor; one,エン,かき
+填,2190,166,stuff up,inlay,,,
+圭,155,167,squared jewel,squared jewel,square jewel; ivy; soil; dirt; ground,ケイ; ケ,
+封,156,168,seal,seal,ivy; square jewel; soil; dirt; ground; glue,フウ; ホウ,
+涯,157,169,horizon,horizon,water; water droplets; water pistol; cliff; ivy; square jewel; soil; dirt; ground,ガイ,はて
+寺,158,170,Buddhist temple,Buddhist temple,buddhist temple; soil; dirt; ground; glue,ジ,てら
+時,159,171,time,time,sun; day; Buddhist temple; soil; dirt; ground; glue,ジ,とき; -どき
+均,160,172,level,level,soil; dirt; ground; ladle; drop,キン,なら.す
+火,161,173,fire,fire,,カ,ひ; -び; ほ-
+炎,162,174,inflammation,inflammation,fire,エン,ほのお
+煩,163,175,anxiety,anxiety,fire; head; page; one; ceiling; drop; shellfish; clam; oyster; eye; animal legs; eight,ハン; ボン,わずら.う; わずら.わす
+淡,164,176,thin,thin,water; water droplets; water pistol; inflammation; fire,タン,あわ.い
+灯,165,177,lamp,lamp,fire; street; nail; spike,トウ,ひ; ほ-; ともしび; とも.す; あかり
+畑,166,178,farm,farm,fire; rice field; brains,,はた; はたけ; -ばたけ
+災,167,179,disaster,disaster,stream; flood; fire,サイ,わざわ.い
+灰,168,180,ashes,ashes,cliff; fire,カイ,はい
+点,169,181,spot,spot,fortune-telling; magic wand; augury; mouth; oven-fire; barbecue,テン,つ.ける; つ.く; た.てる; さ.す; とぼ.す; とも.す; ぼち
+照,170,182,illuminate,illuminate,shining; sun; day; summon; seduce; sword; dagger; mouth; oven-fire; barbecue,ショウ,て.る; て.らす; て.れる
+魚,171,183,fish,fish,bound up; rice field; brains; oven-fire; barbecue,ギョ,うお; さかな; -ざかな
+漁,172,184,fishing,fishing,water; water droplets; water pistol; fish; bound up; rice field; brains; oven-fire; barbecue,ギョ; リョウ,あさ.る
+里,173,185,ri,ri,computer; rice field; brains; soil; dirt; ground,リ,さと
+黒,174,186,black,black,computer; oven-fire; barbecue,コク,くろ; くろ.ずむ; くろ.い
+墨,175,187,black ink,black ink,black; computer; oven-fire; barbecue,ボク,すみ
+鯉,176,188,carp,carp,fish; bound up; rice field; brains; oven-fire; barbecue; computer,リ,こい
+量,177,189,quantity,quantity,nightbreak; sun; day; one; floor; computer,リョウ,はか.る
+厘,178,190,rin,rin,cliff; computer,リン,
+埋,179,191,bury,bury,soil; dirt; ground; computer,マイ,う.める; う.まる; う.もれる; うず.める; うず.まる; い.ける
+同,180,192,same,same,monks; hood; one; mouth,ドウ,おな.じ
+洞,181,193,den,den,water; water droplets; water pistol; same; monks; hood; one; mouth,ドウ,ほら
+胴,182,194,trunk,trunk,moon; month; flesh; part of the body; same; monks; hood; one; mouth,ドウ,
+向,183,195,yonder,yonder,alien; drop; helmet; hood; mouth,コウ,む.く; む.い; -む.き; む.ける; -む.け; む.かう; む.かい; む.こう; む.こう-; むこ; むか.い
+尚,184,196,esteem,esteem,small; little; alien; glass canopy; hood; mouth,ショウ,なお
+字,185,197,character,character,house; child,ジ,あざ; あざな; -な
+守,186,198,guard,guard,house; glue,シュ; ス,まも.る; まも.り; もり; -もり; かみ
+完,187,199,perfect,perfect,house; beginning; two; human legs,カン,
+宣,188,200,proclaim,proclaim,house; span; one; ceiling; sun; day; one; floor; one,セン,のたま.う; のたま.わく
+宵,189,201,wee hours,wee hours,house; resemblance; spark; candle; small; little; moon; month; flesh; part of the body,ショウ,よい
+安,190,202,relax,relax,house; woman,アン,やす.い; やす.まる; やす; やす.らか
+宴,191,203,banquet,banquet,relax; house; sun; day; tongue wagging; woman,エン,うたげ
+寄,192,204,draw near,draw near,house; strange; large; St. Bernard; can; street; nail; spike; mouth,キ,よ.る; -よ.り; よ.せる
+富,193,205,wealth,wealth,house; one; ceiling; mouth; rice field; brains,フ; フウ,と.む; とみ
+貯,194,206,savings,savings,shellfish; clam; oyster; eye; animal legs; eight; house; street; nail; spike,チョ,た.める; たくわ.える
+木,195,207,tree,tree,wood,ボク; モク,き; こ-
+林,196,208,grove,grove,tree; wood,リン,はやし
+森,197,209,forest,forest,tree; wood,シン,もり
+桂,198,210,Japanese Judas-tree,Japanese Judas-tree,Japanese Judas tree; tree; wood; ivy; square jewel; soil; dirt; ground,ケイ,かつら
+柏,199,211,oak,oak,tree; wood; white; dove,ハク; ヒャク; ビャク,かしわ
+枠,200,212,frame,frame,tree; wood; ninety; nine; baseball; ten; needle,,わく
+梢,201,213,treetops,treetops,tree; wood; resemblance; spark; candle; small; little; moon; month; flesh; part of the body,ショウ,こずえ; くすのき
+棚,202,214,shelf,shelf,tree; wood; companion; moon; month; flesh; part of the body; flesh,ホウ,たな; -だな
+杏,203,215,apricot,apricot,tree; wood; mouth,キョウ; アン; コウ,あんず
+桐,204,216,paulownia,paulownia,tree; wood; same; monks; hood; one; mouth,トウ; ドウ,きり
+植,205,217,plant,plant,tree; wood; straightaway; ten; needle; eye; fishhook,ショク,う.える; う.わる
+椅,2480,218,chair,chair,tree; wood; strange; large; St. Bernard; street; nail; spike; mouth,イ,
+枯,206,219,wither,wither,tree; wood; old; tombstone; gravestone; church; ten; needle; mouth,コ,か.れる; か.らす
+朴,207,220,crude,crude,tree; wood; magic wand; augury,ボク,ほう; ほお; えのき
+村,208,221,village,village,tree; wood; measure; glue,ソン,むら
+相,209,222,inter-,inter-,tree; wood; eye,ソウ; ショウ,あい-
+机,210,223,desk,desk,tree; wood; wind,キ,つくえ
+本,211,224,book,book,tree; wood; one,ホン,もと
+札,212,225,tag,tag,tree; wood; fishhook,サツ,ふだ
+暦,213,226,calendar,calendar,cliff; grove; tree; wood; sun; day,レキ,こよみ; りゃく
+案,214,227,plan,plan,relax; house; woman; tree; wood,アン,つくえ
+燥,215,228,parch,parch,fire; furniture; wooden goods; mouth; tree; wood,ソウ,はしゃ.ぐ
+未,216,229,not yet,not yet,tree; wood; one,ミ; ビ,いま.だ; ま.だ; ひつじ
+昧,2445,230,obscure,obscure,sun; not yet; one; tree; wood,マイ; バイ,くら.い; むさぼ.る
+末,217,231,extremity,extremity,tree; wood; one,マツ; バツ,すえ
+沫,218,232,splash,splash,water; water droplets; water pistol; extremity; one; tree; wood,マツ; バツ,あわ; しぶき; つばき
+味,219,233,flavor,flavor,mouth; not yet; one; tree; wood,ミ,あじ; あじ.わう
+妹,220,234,younger sister,younger sister,woman; not yet; one; tree; wood,マイ,いもうと
+朱,221,235,vermilion,vermilion,vermillion; drop; not yet; one; tree; wood,シュ,あけ
+株,222,236,stocks,stocks,tree; wood; vermillion; drop; not yet; one; tree; wood,シュ,かぶ
+若,223,237,young,young,flowers; right; by one’s side; mouth,ジャク; ニャク; ニャ,わか.い; わか-; も.しくわ; も.し; も.しくは
+草,224,238,grass,grass,flowers; sunflower; early; sun; day; ten; needle,ソウ,くさ; くさ-; -ぐさ
+苦,225,239,suffering,suffering,flowers; old; tombstone; gravestone; church; ten; needle; mouth,ク,くる.しい; -ぐる.しい; くる.しむ; くる.しめる; にが.い; にが.る
+苛,2373,240,bullying,bullying,flowers; can; mouth; street; street; nail; spike,カ,いじ.める; さいな.む; いらだ.つ; からい; こまかい
+寛,226,241,tolerant,tolerant,house; flowers; look; see; telescope; eye; human legs,カン,くつろ.ぐ; ひろ.い; ゆる.やか
+薄,227,242,dilute,dilute,flowers; water; water droplets; water pistol; acupuncturist; specialty; drop; ten; needle; rice field; brains; glue,ハク,うす.い; うす-; -うす; うす.める; うす.まる; うす.らぐ; うす.ら-; うす.れる; すすき
+葉,228,243,leaf,leaf,flowers; Tarzan; generation; tree; wood,ヨウ,は
+模,229,244,imitation,imitation,tree; wood; graveyard; flowers; sun; day; large; St. Bernard,モ; ボ,
+漠,230,245,vague,vague,water; water droplets; water pistol; graveyard; flowers; sun; day; large; St. Bernard,バク,
+墓,231,246,grave,grave,graveyard; flowers; sun; day; large; St. Bernard; soil; dirt; ground,ボ,はか
+暮,232,247,livelihood,livelihood,graveyard; flowers; sun; day; large; St. Bernard,ボ,く.れる; く.らす
+膜,233,248,membrane,membrane,moon; month; flesh; part of the body; graveyard; flowers; sun; day; large; St. Bernard,マク,
+苗,234,249,seedling,seedling,flowers; rice field; brains,ビョウ; ミョウ,なえ; なわ-
+兆,235,250,portent,portent,turtle,チョウ,きざ.す; きざ.し
+桃,236,251,peach tree,peach tree,tree; wood; portent; turtle,トウ,もも
+眺,237,252,stare,stare,eye; portent; turtle,チョウ,なが.める
+犬,238,253,dog,dog,large; St. Bernard; drop,ケン,いぬ; いぬ-
+状,239,254,status quo,status quo,turtle; chihuahua; dog; large; drop,ジョウ,
+黙,240,255,silence,silence,black; computer; chihuahua; dog; large; drop; oven-fire; barbecue,モク; ボク,だま.る; もだ.す
+然,241,256,sort of thing,sort of thing,moon; crescent moon; month; flesh; part of the body; chihuahua; dog; large; drop; oven-fire; barbecue,ゼン; ネン,しか; しか.り; しか.し; さ
+荻,242,257,reed,reed,flowers; pack of wild dogs; fire,テキ,おぎ
+狩,243,258,hunt,hunt,pack of wild dogs; guard; house; glue,シュ,か.る; か.り; -が.り
+猫,244,259,cat,cat,pack of wild dogs; seedlings; flowers; rice field; brains,ビョウ,ねこ
+牛,245,260,cow,cow,,ギュウ,うし
+特,246,261,special,special,cow; Buddhist temple; soil; dirt; ground; glue,トク,
+告,247,262,revelation,revelation,cow; mouth,コク,つ.げる
+先,248,263,before,before,cow; human legs,セン,さき; ま.ず
+洗,249,264,wash,wash,water; water droplets; water pistol; before; cow; human legs,セン,あら.う
+介,250,265,jammed in,jammed in,umbrella; stick; walking cane,カイ,
+界,251,266,world,world,rice field; brains; jammed in; umbrella; stick; cane,カイ,
+茶,252,267,tea,tea,flowers; umbrella; wooden pole,チャ; サ,
+脊,2071,268,spinal column,spinal column,I Ching; Master Po; umbrella; moon; month; flesh; part of the body,セキ,せ; せい
+合,253,269,fit,fit,meeting; umbrella; one; mouth,ゴウ; ガッ; カッ,あ.う; -あ.う; あ.い; あい-; -あ.い; -あい; あ.わす; あ.わせる; -あ.わせる
+塔,254,270,pagoda,pagoda,soil; dirt; ground; flowers; fit; meeting; umbrella; one; mouth,トウ,
+王,255,271,king,king,jewel; ball,オウ; ノウ,
+玉,256,272,jewel,jewel,king; ball; earring; drop,ギョク,たま; たま-; -だま
+宝,257,273,treasure,treasure,house; king; jewel; ball; earring; drop,ホウ,たから
+珠,258,274,pearl,pearl,king; jewel; ball; vermillion; drop; not yet; one; tree; wood,シュ,たま
+現,259,275,present,present,king; jewel; ball; see; telescope; eye; human legs,ゲン,あらわ.れる; あらわ.す; うつつ; うつ.つ
+玩,2567,276,toy,toy,king; jewel; ball; beginning; two; human legs,ガン,もちあそ.ぶ; もてあそ.ぶ
+狂,260,277,lunatic,lunatic,pack of wild dogs; king; jewel; ball,キョウ,くる.う; くる.おしい; くるお.しい
+旺,2450,278,effulgent,effulgent,sun; day; king; jewel; ball,オウ; キョウ; ゴウ,かがや.き; うつくし.い; さかん
+皇,261,279,emperor,emperor,white; dove; king; jewel; ball,コウ; オウ,
+呈,262,280,display,display,mouth; king; jewel; ball,テイ,
+全,263,281,whole,whole,umbrella; king; jewel; ball,ゼン,まった.く; すべ.て
+栓,264,282,plug,plug,tree; wood; whole; umbrella; king; jewel; ball,セン,
+理,265,283,logic,logic,king; jewel; ball; computer,リ,ことわり
+主,266,284,lord,lord,drop; king; jewel; ball,シュ; ス; シュウ,ぬし; おも; あるじ
+注,267,285,pour,pour,water; water droplets; water pistol; candlestick; lord; drop; king; jewel; ball,チュウ,そそ.ぐ; さ.す; つ.ぐ
+柱,268,286,pillar,pillar,tree; wood; candlestick; lord; drop; king; jewel; ball,チュウ,はしら
+金,269,287,gold,gold,metal; umbrella; drop; king; jewel; ball,キン; コン; ゴン,かね; かな-; -がね
+銑,270,288,pig iron,pig iron,pig-iron; metal; gold; before; cow; human legs,セン,
+鉢,271,289,bowl,bowl,metal; gold; origin; book; tree; wood; one,ハチ; ハツ,
+銅,272,290,copper,copper,metal; gold; same; monks; hood; one; mouth,ドウ,あかがね
+釣,273,291,angling,angling,metal; gold; ladle; bound up; drop,チョウ,つ.る; つ.り; つ.り-
+針,274,292,needle,needle,metal; gold; ten,シン,はり
+銘,275,293,inscription,inscription,metal; gold; name; evening; mouth,メイ,
+鎮,276,294,tranquillize,tranquillize,tranquilize; metal; gold; true; truth; ten; needle; eye; tool; animal legs; eight,チン,しず.める; しず.まる; おさえ
+道,277,295,road-way,road-way,neck; horns; drop; eye; road,ドウ; トウ,みち
+導,278,296,guidance,guidance,neck; horns; drop; eye; road; glue,ドウ,みちび.く
+辻,279,297,crossing,crossing,cross; ten; needle; road,,つじ
+迅,280,298,swift,swift,fishhook; cross; ten; needle; road,ジン,
+造,281,299,create,create,revelation; cow; mouth; road,ゾウ,つく.る; つく.り; -づく.り
+迫,282,300,urge,urge,white; dove; road,ハク,せま.る
+逃,283,301,escape,escape,turtle; portent; road,トウ,に.げる; に.がす; のが.す; のが.れる
+辺,284,302,environs,environs,dagger; sword; road,ヘン,あた.り; ほと.り; -べ
+巡,285,303,patrol,patrol,deluge; stream; flood; road,ジュン,めぐ.る; めぐ.り
+車,286,304,car,car,sun; ten; needle,シャ,くるま
+連,287,305,take along,take along,car; road,レン,つら.なる; つら.ねる; つ.れる; -づ.れ
+軌,288,306,rut,rut,car; nine; baseball,キ,
+輸,289,307,transport,transport,car; meeting of butchers; umbrella; one; moon; month; flesh; part of the body; sword; sabre; saber,ユ; シュ,
+喩,3009,308,metaphor,metaphor,,,
+前,290,309,in front,in front,horns; butcher; moon; month; flesh; part of the body; sword; sabre; saber,ゼン,まえ; -まえ
+煎,2548,310,roast,roast,in front; horns; butcher; moon; month; flesh; part of the body; sword; sabre; saber; oven-fire; barbecue,セン,せん.じる; い.る; に.る
+各,291,311,each,each,walking legs; mouth,カク,おのおの
+格,292,312,status,status,tree; wood; each; walking legs; mouth,カク; コウ; キャク; ゴウ,
+賂,2738,313,graft,graft,shellfish; clam; oyster; eye; animal legs; eight; each; walking legs; mouth,ロ,まいな.い; まいな.う
+略,293,314,abbreviation,abbreviation,rice field; brains; each; walking legs; mouth,リャク,ほぼ; おか.す; おさ.める; はかりごと; はか.る; はぶ.く; りゃく.す; りゃく.する
+客,294,315,guest,guest,house; each; walking legs; mouth,キャク; カク,
+額,295,316,forehead,forehead,guest; house; each; walking legs; mouth; head; page; one; ceiling; drop; shellfish; clam; oyster; eye; animal legs; eight,ガク,ひたい
+夏,296,317,summer,summer,one; ceiling; drop; eye; walking legs,カ; ガ; ゲ,なつ
+処,297,318,dispose,dispose,walking legs; wind,ショ,ところ; -こ; お.る
+条,298,319,twig,twig,walking legs; tree; wood,ジョウ; チョウ; デキ,えだ; すじ
+落,299,320,fall,fall,flowers; water; water droplets; water pistol; each; walking legs; mouth,ラク,お.ちる; お.ち; お.とす
+冗,300,321,superfluous,superfluous,crown; weathercock; wind,ジョウ,
+冥,2841,322,Hades,Hades,hades; crown; sun; day; six,メイ; ミョウ,くら.い
+軍,301,323,army,army,chariot; crown; vehicle; car,グン,
+輝,302,324,radiance,radiance,ray; small; little; human legs; army; chariot; crown; vehicle; car,キ,かがや.く
+運,303,325,carry,carry,army; chariot; crown; vehicle; car; road,ウン,はこ.ぶ
+冠,304,326,crown,crown,beginning; two; human legs; glue,カン,かんむり
+夢,305,327,dream,dream,flowers; eye; cross-eyed; net; crown; evening,ム; ボウ,ゆめ; ゆめ.みる; くら.い
+坑,306,328,pit,pit,soil; dirt; ground; whirlwind; top hat; wind,コウ,
+高,307,329,tall,tall,top hat; mouth; alien; hood; mouth,コウ,たか.い; たか; -だか; たか.まる; たか.める
+享,308,330,receive,receive,tall; top hat; mouth; children,キョウ; コウ,う.ける
+塾,309,331,cram school,cram school,receive; tall; top hat; mouth; child; children; round; nine; baseball; drop; soil; dirt; ground,ジュク,
+熟,310,332,mellow,mellow,receive; tall; top hat; mouth; child; children; round; nine; baseball; drop; oven-fire; barbecue,ジュク,う.れる
+亭,311,333,pavilion,pavilion,tall; top hat; mouth; crown; street; nail; spike,テイ; チン,
+京,312,334,capital,capital,tall; top hat; mouth; small; little,キョウ; ケイ; キン,みやこ
+涼,313,335,refreshing,refreshing,water droplets; water pistol capital; tall; top hat; mouth; small; little,リョウ,すず.しい; すず.む; すず.やか; うす.い; ひや.す; まことに
+景,314,336,scenery,scenery,sun; day; capital; tall; top hat; mouth; small; little,ケイ,
+鯨,315,337,whale,whale,fish; bound up; rice field; brains; oven-fire; barbecue; capital; tall; top hat; mouth; small; little,ゲイ,くじら
+舎,316,338,cottage,cottage,umbrella; earthenware jar; lidded crock; soil; dirt; ground; mouth,シャ; セキ,やど.る
+周,317,339,circumference,circumference,glass hood; earthenware jar; lidded crock; soil; dirt; ground; mouth,シュウ,まわ.り
+週,318,340,week,week,circumference; running track; earthenware jar; lidded crock; soil; dirt; ground; mouth; road,シュウ,
+士,319,341,gentleman,gentleman,samurai,シ,
+吉,320,342,good luck,good luck,samurai; mouth,キチ; キツ,よし
+壮,321,343,robust,robust,turtle; samurai,ソウ,さかん
+荘,322,344,villa,villa,flowers; robust; turtle; samurai,ソウ; ショウ; チャン,ほうき; おごそ.か
+売,323,345,sell,sell,samurai; paper punch; Miss World; crown; human legs,バイ,う.る; う.れる
+学,324,346,study,study,schoolhouse; owl; crown; child,ガク,まな.ぶ
+覚,325,347,memorize,memorize,schoolhouse; owl; crown; see; telescope; eye; human legs,カク,おぼ.える; さ.ます; さ.める; さと.る
+栄,326,348,flourish,flourish,schoolhouse; owl; crown; tree; wood,エイ; ヨウ,さか.える; は.え; -ば.え; は.える; え
+書,327,349,write,write,brush; tongue wagging; sun; day,ショ,か.く; -が.き; -がき
+津,328,350,haven,haven,water; water droplets; water pistol; brush,シン,つ
+牧,329,351,breed,breed,cow; taskmaster,ボク,まき
+攻,330,352,aggression,aggression,craft; taskmaster,コウ,せ.める
+敗,331,353,failure,failure,shellfish; clam; oyster; eye; animal legs; eight; taskmaster,ハイ,やぶ.れる
+枚,332,354,sheet of,a sheet of,sheet of…; tree; wood; taskmaster,マイ; バイ,
+故,333,355,happenstance,happenstance,old; tombstone; gravestone; church; ten; needle; mouth; taskmaster,コ,ゆえ; ふる.い; もと
+敬,334,356,awe,awe,flowers; phrase; bound up; mouth; taskmaster,ケイ; キョウ,うやま.う
+言,335,357,say,say,words; keitai; mouth,ゲン; ゴン,い.う; こと
+警,336,358,admonish,admonish,awe; flowers; phrase; bound up; mouth; taskmaster; say; words; keitai; mouth,ケイ,いまし.める
+計,337,359,plot,plot,say; words; keitai; mouth; ten; needle,ケイ,はか.る; はか.らう
+詮,2717,360,elucidate,elucidate,say; words; keitai; mouth; whole; umbrella; king; jewel; ball,セン,せん.ずる; かい; あき.らか
+獄,338,361,prison,prison,pack of wild dogs; say; words; keitai; mouth; chihuahua; dog; large; drop,ゴク,
+訂,339,362,revise,revise,say; words; keitai; mouth; street; nail; spike,テイ,
+訃,3010,363,obituary,obituary,,フ,"しらせ<span class=""Apple-tab-span"" style=""white-space:pre""> </span>"
+討,340,364,chastise,chastise,say; words; keitai; mouth; glue,トウ,う.つ
+訓,341,365,instruction,instruction,say; words; keitai; mouth; stream; flood,クン; キン,おし.える; よ.む; くん.ずる
+詔,342,366,imperial edict,imperial edict,say; words; keitai; mouth; summon; seduce; sword; dagger; mouth,ショウ,みことのり
+詰,343,367,packed,packed,say; words; keitai; mouth; aerosol; good luck; samurai; mouth,キツ; キチ,つ.める; つ.め; -づ.め; つ.まる; つ.む
+話,344,368,tale,tale,say; words; keitai; mouth; tongue; thousand; mouth,ワ,はな.す; はなし
+詠,345,369,recitation,recitation,say; words; keitai; mouth; eternity; drop; water,エイ,よ.む; うた.う
+詩,346,370,poem,poem,say; words; keitai; mouth; Buddhist temple; soil; dirt; ground; glue,シ,うた
+語,347,371,word,word,say; words; keitai; mouth; I; five; mouth,ゴ,かた.る; かた.らう
+読,348,372,read,read,say; words; keitai; mouth; sell; sale; samurai; paper punch; Miss World; crown; human legs,ドク; トク; トウ,よ.む; -よ.み
+調,349,373,tune,tune,say; words; keitai; mouth; circumference; running track; soil; dirt; ground; mouth,チョウ,しら.べる; しら.べ; ととの.う; ととの.える
+談,350,374,discuss,discuss,say; words; keitai; mouth; inflammation; fire,ダン,
+諾,351,375,consent,consent,say; words; keitai; mouth; young; flowers; by one’s side; mouth,ダク,
+諭,352,376,rebuke,rebuke,say; words; keitai; mouth; meeting of butchers; moon; month; flesh; part of the body; sword; sabre; saber,ユ,さと.す
+式,353,377,style,style,arrow; craft,シキ,
+試,354,378,test,test,say; words; keitai; mouth; style; arrow; craft,シ,こころ.みる; ため.す
+弐,355,379,II (two),II (two),II; two; arrows; quiver,ニ; ジ,ふた.つ; そえ
+域,356,380,range,range,soil; dirt; ground; pope; fiesta; mouth; one; floor,イキ,
+賊,357,381,burglar,burglar,shellfish; clam; oyster; eye; animal legs; eight; ten; needle; fiesta,ゾク,
+栽,358,382,plantation,plantation,Thanksgiving; harvest festival; ten; needle; fiesta; tree; wood,サイ,
+載,359,383,load,load,Thanksgiving; harvest festival; ten; needle; fiesta; car; vehicle,サイ,の.せる; の.る
+茂,360,384,overgrown,overgrown,flowers; parade,モ,しげ.る
+戚,2882,385,relatives,relatives,half-uncle; above; small; little; parade,ソク; セキ,いた.む; うれ.える; みうち
+成,361,386,turn into,turn into,parade; sword; dagger,セイ; ジョウ,な.る; な.す; -な.す
+城,362,387,castle,castle,soil; dirt; ground; turn into; parade; sword; dagger,ジョウ,しろ
+誠,363,388,sincerity,sincerity,say; words; keitai; mouth; turn into; sword; dagger; parade,セイ,まこと
+威,364,389,intimidate,intimidate,march; women; woman,イ,おど.す; おど.し; おど.かす
+滅,365,390,destroy,destroy,water; water droplets; water pistol; march; fire,メツ,ほろ.びる; ほろ.ぶ; ほろ.ぼす
+減,366,391,dwindle,dwindle,water; water droplets; water pistol; march; mouth,ゲン,へ.る; へ.らす
+蔑,2390,392,revile,revile,flowers; eye; cross-eyed; net; march,ベツ,ないがしろ; なみ.する; くらい; さげす.む
+桟,367,393,scaffold,scaffold,tree; wood; float; fiesta,サン; セン,かけはし
+銭,368,394,coin,coin,metal; gold; float; fiesta,セン; ゼン,ぜに; すき
+浅,369,395,shallow,shallow,water; water droplets; water pistol; float; fiesta,セン,あさ.い
+止,370,396,stop,stop,footprint,シ,と.まる; -ど.まり; と.める; -と.める; -ど.め; とど.める; とど.め; とど.まる; や.める; や.む; -や.む; よ.す; -さ.す; -さ.し
+歩,371,397,walk,walk,stop; footprint; few,ホ; ブ; フ,ある.く; あゆ.む
+渉,372,398,ford,ford,water; water droplets; water pistol; walk; stop; footprint; few,ショウ,わた.る
+頻,373,399,repeatedly,repeatedly,walk; stop; footprint; few; head; page; one; ceiling; drop; shellfish; clam; oyster; eye; animal legs; eight,ヒン,しき.りに
+肯,374,400,agreement,agreement,stop; footprint; moon; month; flesh; part of the body,コウ,がえんじ.る
+企,375,401,undertake,undertake,umbrella; stop; footprint,キ,くわだ.てる; たくら.む
+歴,376,402,curriculum,curriculum,cliff; grove; tree; wood; stop; footprint,レキ; レッキ,
+武,377,403,warrior,warrior,one; arrow; stop; footprint,ブ; ム,たけ.し
+賦,378,404,levy,levy,shellfish; clam; oyster; eye; animal legs; eight; warrior; one; stop; footprint; arrow,フ; ブ,
+正,379,405,correct,correct,one; ceiling; stop; footprint,セイ; ショウ,ただ.しい; ただ.す; まさ; まさ.に
+証,380,406,evidence,evidence,say; words; keitai; mouth; correct; one; ceiling; stop; footprint,ショウ,あかし
+政,381,407,politics,politics,correct; one; ceiling; stop; footprint; taskmaster,セイ; ショウ,まつりごと; まん
+定,382,408,determine,determine,house; mend,テイ; ジョウ,さだ.める; さだ.まる; さだ.か
+錠,383,409,lock,lock,metal; gold; determine; determined; house; mend,ジョウ,
+走,384,410,run,run,soil; dirt; ground; mend,ソウ,はし.る
+超,385,411,transcend,transcend,run; soil; dirt; ground; mend; summon; seduce; sword; dagger; mouth,チョウ,こ.える; こ.す
+赴,386,412,proceed,proceed,run; soil; dirt; ground; mend; magic wand; augury,フ,おもむ.く
+越,387,413,surpass,surpass,run; soil; dirt; ground; mend; parade,エツ; オツ,こ.す; -こ.す; -ご.し; こ.える; -ご.え
+是,388,414,just so,just so,sun; day; mend,ゼ; シ,これ; この; ここ
+題,389,415,topic,topic,just so; sun; day; mend; head; page; one; ceiling; drop; shellfish; clam; oyster; eye; animal legs; eight,ダイ,
+堤,390,416,dike,dike,soil; dirt; ground; just so; sun; day; mend,テイ,つつみ
+建,391,417,build,build,brush; stretch,ケン; コン,た.てる; た.て; -だ.て; た.つ
+鍵,2761,418,key,key,metal; gold; build; brush; stretch,ケン,かぎ
+延,392,419,prolong,prolong,drop; stop; footprint; stretch,エン,の.びる; の.べる; の.べ; の.ばす
+誕,393,420,nativity,nativity,say; words; keitai; mouth; prolonged; drop; stop; footprint; stretch,タン,
+礎,394,421,cornerstone,cornerstone,stone; rock; grove; tree; wood; zoo; critters,ソ,いしずえ
+婿,395,422,bridegroom,bridegroom,woman; zoo; critters; moon; month; flesh; part of the body,セイ,むこ
+衣,396,423,garment,garment,top hat; scarf; cloth; clothes; clothing,イ; エ,ころも; きぬ; -ぎ
+裁,397,424,tailor,tailor,Thanksgiving; harvest festival; ten; needle; fiesta; top hat; scarf; cloth; clothes; clothing; garment,サイ,た.つ; さば.く
+装,398,425,attire,attire,turtle; samurai; top hat; scarf; cloth; clothes; clothing; garment,ソウ; ショウ,よそお.う; よそお.い
+裏,399,426,back,back,top hat; scarf; computer,リ,うら
+壊,400,427,demolition,demolition,soil; dirt; ground; poltergeist; BernaE; ten; needle; eye; cross-eyed; net; top hat; scarf; cloth; clothes; clothing; garment,カイ; エ,こわ.す; こわ.れる; やぶ.る
+哀,401,428,pathetic,pathetic,top hat; scarf; mouth,アイ,あわ.れ; あわ.れむ; かな.しい
+遠,402,429,distant,distant,earthenware jar; lidded crock; soil; dirt; ground; mouth; scarf; road,エン; オン,とお.い
+猿,403,430,monkey,monkey,pack of wild dogs; earthenware jar; lidded crock; soil; dirt; ground; mouth; scarf,エン,さる
+初,404,431,first time,first time,cloak; sword; dagger,ショ,はじ.め; はじ.めて; はつ; はつ-; うい-; -そ.める; -ぞ.め
+巾,2101,432,towel,towel,,キン; フク,おお.い; ちきり; きれ; はば
+布,405,433,linen,linen,by one’s side; towel,フ,ぬの
+帆,406,434,sail,sail,towel; mediocre; drop; wind,ハン,ほ
+幅,407,435,hanging scroll,hanging scroll,towel; wealth; one; ceiling; mouth; rice field; brains,フク,はば
+帽,408,436,cap,cap,towel; risk; sun; day; eye,ボウ; モウ,ずきん; おお.う
+幕,409,437,curtain,curtain,graveyard; flowers; sun; day; large; St. Bernard; towel,マク; バク,とばり
+幌,410,438,canopy,canopy,towel; limpid; sun; day; ray; small; little; human legs,コウ,ほろ; とばり
+錦,411,439,brocade,brocade,metal; gold; napkin; white; dove; towel,キン,にしき
+市,412,440,market,market,top hat; towel,シ,いち
+柿,2481,441,persimmon,persimmon,tree; wood; market; top hat; towel,シ,かき; こけら
+姉,413,442,elder sister,elder sister,woman; market; top hat; towel,シ,あね; はは
+肺,414,443,lungs,lungs,moon; month; flesh; part of the body; market; top hat; towel,ハイ,
+帯,415,444,sash,sash,buckle; apron; crown; towel,タイ,お.びる; おび
+滞,416,445,stagnate,stagnate,water; water droplets; water pistol; sash; buckle; apron; crown; towel,タイ; テイ,とどこお.る
+刺,417,446,thorn,thorn,tree; wood; belt; sword; sabre; saber,シ,さ.す; さ.さる; さ.し; さし; とげ
+制,418,447,system,system,cow; belt; sword; sabre; saber,セイ,
+製,419,448,made in...,made in...,made in…; system; cow; belt; sword; sabre; saber; hat; scarf; cloth; clothes; clothing; garment,セイ,
+転,420,449,revolve,revolve,car; rising cloud; two; elbow; wall,テン,ころ.がる; ころ.げる; ころ.がす; ころ.ぶ; まろ.ぶ; うたた; うつ.る; くる.めく
+芸,421,450,technique,technique,flowers; rising cloud; two; elbow; wall,ゲイ; ウン,う.える; のり; わざ
+雨,422,451,rain,rain,weather,ウ,あめ; あま-; -さめ
+雲,423,452,cloud,cloud,rain; weather; rising cloud; two; elbow; wall,ウン,くも; -ぐも
+曇,424,453,cloudy weather,cloudy weather,sun; day; cloud; rain; weather; rising cloud; two; elbow; wall,ドン,くも.る
+雷,425,454,thunder,thunder,rain; weather; rice field; brains,ライ,かみなり
+霜,426,455,frost,frost,rain; weather; inter; Inter Milan; tree; wood; eye,ソウ,しも
+冬,427,456,winter,winter,walking legs; ice,トウ,ふゆ
+天,428,457,heavens,heavens,one; ceiling; large,テン,あまつ; あめ; あま-
+妖,2078,458,bewitched,bewitched,woman; sapling,ヨウ,あや.しい; なま.めく; わざわ.い
+沃,2079,459,irrigate,irrigate,water; water droplets; water pistol; sapling,ヨウ; ヨク; オク,そそ.ぐ
+橋,429,460,bridge,bridge,tree; wood; angel; heavens; mouth; hood; mouth,キョウ,はし
+嬌,430,461,attractive,attractive,woman; angel; heavens; mouth; hood; mouth,キョウ,なまめか.しい
+立,431,462,stand up,stand up,vase,リツ; リュウ; リットル,た.つ; -た.つ; た.ち-; た.てる; -た.てる; た.て-; たて-; -た.て; -だ.て; -だ.てる
+泣,432,463,cry,cry,water; water droplets; water pistol; vase; stand up,キュウ,な.く
+章,433,464,badge,badge,vase; stand up; sunflower; early; sun; day; ten; needle,ショウ,
+競,434,465,vie,vie,vase; stand up; elder brother; teenager; mouth; human legs,キョウ; ケイ,きそ.う; せ.る
+帝,435,466,sovereign,sovereign,vase; stand up; apron; crown; towel,テイ,みかど
+諦,2716,467,give up,renunciation,say; words; keitai; mouth; sovereign; vase; stand up; apron; crown; towel,テイ; タイ,あき.らめる; あきら.める; つまびらか; まこと
+童,436,468,juvenile,juvenile,vase; stand up; computer,ドウ,わらべ
+瞳,437,469,pupil,pupil,eye; juvenile; vase; stand up; computer,ドウ; トウ,ひとみ
+鐘,438,470,bell,bell,metal; gold; juvenile; vase; stand up; computer,ショウ,かね
+商,439,471,make a deal,make a deal,vase; stand up; alien; hood; human legs; mouth,ショウ,あきな.う
+嫡,440,472,legitimate wife,legitimate wife,woman; antique; vase; stand up; hood; old; tombstone; gravestone; church; ten; needle; mouth,チャク; テキ,
+適,441,473,suitable,suitable,antique; vase; stand up; hood; old; tombstone; gravestone; church; ten; needle; mouth; road,テキ,かな.う
+滴,442,474,drip,drip,water; water droplets; water pistol; antique; vase; stand up; hood; old; tombstone; gravestone; church; ten; needle; mouth,テキ,しずく; したた.る
+敵,443,475,enemy,enemy,antique; vase; stand up; hood; old; tombstone; gravestone; church; ten; needle; mouth; taskmaster,テキ,かたき; あだ; かな.う
+匕,444,476,spoon,spoon,sitting on the ground,ヒ,さじ; さじのひ
+叱,2179,477,scold,scold,mouth; diced; seven; spoon; sitting on the ground,シツ; シチ,しか.る
+匂,2147,478,aroma,aroma,bound up; spoon; sitting on the ground,,にお.う; にお.い; にお.わせる
+頃,2791,479,about that time,about that time,spoon; sitting on the ground; head; page; one; ceiling; drop; shellfish; clam; oyster; eye; animal legs; eight,ケイ; キョウ,ころ; ごろ; しばら.く
+北,445,480,north,north,spoon; sitting on the ground,ホク,きた
+背,446,481,stature,stature,north; spoon; sitting on the ground; moon; month; flesh; part of the body,ハイ,せ; せい; そむ.く; そむ.ける
+比,447,482,compare,compare,spoon; sitting on the ground,ヒ,くら.べる
+昆,448,483,descendants,descendants,sun; day; compare; spoon; sitting on the ground,コン,
+皆,449,484,all,all,compare; spoon; sitting on the ground; white; dove,カイ,みな; みんな
+楷,3011,485,block letters,block letters,,カイ,
+諧,3012,486,orderliness,orderliness,,カイ,かな.う; やわ.らぐ
+混,450,487,mix,mix,water; water droplets; water pistol; descendants; sun; day; compare; spoon; sitting on the ground,コン,ま.じる; -ま.じり; ま.ざる; ま.ぜる; こ.む
+渇,451,488,thirst,thirst,water; water droplets; water pistol; mexican bandit; muchacho; siesta; sun; day; aroma; bound up; spoon; sitting on the ground,カツ,かわ.く
+謁,452,489,audience,audience,say; words; keitai; mouth; mexican bandit; muchacho; siesta; sun; day; aroma; bound up; spoon; sitting on the ground,エツ,
+褐,453,490,brown,brown,cloak; mexican bandit; muchacho; siesta; sun; day; aroma; bound up; spoon; sitting on the ground,カツ,
+喝,454,491,hoarse,hoarse,mouth; mexican bandit; muchacho; siesta; sun; day; aroma; bound up; spoon; sitting on the ground,カツ,
+葛,2398,492,kudzu,kudzu,flowers; mexican bandit; muchacho; siesta; sun; day; aroma; bound up; spoon; sitting on the ground,カツ; カチ,つづら; くず
+旨,455,493,delicious,delicious,spoon; sitting on the ground; sun; day,シ,むね; うま.い
+脂,456,494,fat,fat,moon; month; flesh; part of the body; delicious; spoon; sun; day,シ,あぶら
+詣,2715,495,visit a shrine,visit a shrine,say; words; keitai; mouth; delicious; spoon; sitting on the ground; sun; day,ケイ; ゲイ,けい.する; まい.る; いた.る; もう.でる
+壱,457,496,I (one),I (one),1 (one); samurai; crown; spoon; sitting on the ground,イチ; イツ,ひとつ
+毎,458,497,every,every,reclining; lying down; mother,マイ,ごと; -ごと.に
+敏,459,498,cleverness,cleverness,every; reclining; lying down; mother; breasts; taskmaster,ビン,さとい
+梅,460,499,plum,plum,tree; wood; every; reclining; lying down; mother; breasts,バイ,うめ
+海,461,500,sea,sea,water; water droplets; water pistol; every; reclining; lying down; mother; breasts,カイ,うみ
+乞,462,501,beg,beg,reclining; lying down; fishhook,コツ; キツ; キ; キケ; コチ,こ.う
+乾,463,502,drought,drought,mist; ten; needle; early; sun; day; beg; reclining; lying down; fishhook,カン; ケン,かわ.く; かわ.かす; ほ.す; ひ.る; いぬい
+腹,464,503,abdomen,abdomen,moon; month; flesh; part of the body; fold back; double back; reclining; lying down; sun; day; walking legs,フク,はら
+複,465,504,duplicate,duplicate,cloak; fold back; double back; reclining; lying down; sun; day; walking legs,フク,
+欠,466,505,lack,lack,yawn,ケツ; ケン,か.ける; か.く; あくび
+吹,467,506,blow,blow,mouth; lack; yawn,スイ,ふ.く

@@ -6,6 +6,7 @@ joyo_list_path = "data/kanji-jouyou.json"
 joyo_list = fetch_joyo_list(joyo_list_path)
 
 def main(txt_files, csv_files, urls):
+    #TODO: files conversion? doc -> txt, excel (all types) -> csv
     files_total_kanji, files_joyo_kanji = read_from_files(txt_files,csv_files,joyo_list)
     urls_total_kanji, url_joyo_kanji = read_from_urls(urls,joyo_list)
 
