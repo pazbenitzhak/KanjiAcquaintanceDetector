@@ -16,14 +16,13 @@ def read_text_files(txt_files_path,joyo_list):
 
     return total_kanji_set, joyo_kanji_set
 
+#preassumptions: csv file contains a kanji column
 def read_csv_files(csv_files_path,joyo_list):
     csvs_total_kanji, csvs_joyo_kanji = set(), set() 
     for csv_file_path in csv_files_path:
         csv_file = pd.read_csv(csv_file_path, encoding='utf-8-sig')
         csvs_total_kanji.update(csv_file["kanji"])
-        csvs_joyo_kanji.update(csv_file["kanji"].apply(is_joyo_kanji(joyo_list)))
-        #TODO: complete function
-
+        csvs_joyo_kanji.update(csv_file.loc(csv_file["kanji"].apply(lambda x: is_joyo_kanji(x,joyo_list))))
     return csvs_total_kanji, csvs_joyo_kanji
 
 def read_from_files(txt_files_path, csv_files_path,joyo_list):
