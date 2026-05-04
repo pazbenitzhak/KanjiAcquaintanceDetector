@@ -1,12 +1,16 @@
-from helper import isJoyoKanji
+from helper import is_joyo_kanji
+import re
+
+valid_iknow_pattern = re.compile(r"(https?://)?(www\.)?iknow\.jp/courses/\d{6}")
+
 
 def read_from_iknow(url,joyo_list):
+
     #TODO: implement function
     return
 
 def is_valid_iknow_url(url):
-    #TODO: implement function
-    return
+    return valid_iknow_pattern.fullmatch(url) is not None
 
 def read_gen_scrap(url,joyo_list):
     #TODO: implement function
